@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
-<h3 align="center">Computer Engineering Student @Faculty of Engineering Cairo University. Full stack internship @Codify college ab.</h3>
+<h3 align="center">Computer Engineering Student @Faculty of Engineering Cairo University. Full stack developer @NichePharma.</h3>
 
-- 🔭 I’m currently working on [XGame](https://github.com/AhmedKhaled590/XGame)
+- 🔭 I’m currently working on [Tacit-App](https://github.com/AhmedKhaled590/XGame)
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedayman1420](https://github.com/ahmedayman1420)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ahmedayman1420)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ahmed-ayman-824107216](https://www.linkedin.com/in/ahmed-ayman-824107216)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-824107216)
 
 - 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **ahmed.ayman.1420@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yc5O_O6MzH9lt-HsYAPVcIdwi7x-2LRN/view?usp=sharing](https://drive.google.com/file/d/1Yc5O_O6MzH9lt-HsYAPVcIdwi7x-2LRN/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Yc5O_O6MzH9lt-HsYAPVcIdwi7x-2LRN/view?usp=sharing)
 
 - ⚡ Fun fact **CMP is easy**
 
