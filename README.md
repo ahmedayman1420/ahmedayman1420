@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ahmedayman1420)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ahmedayman1420?tab=repositories)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-824107216)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmed.ayman.1420@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Yc5O_O6MzH9lt-HsYAPVcIdwi7x-2LRN/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1NWgfKCGt_-18qYWLaQ2NmP6HoYDDZ2uh/view?usp=share_link)
 
 - ⚡ Fun fact **CMP is easy**
 
