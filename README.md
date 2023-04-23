@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
 <h3 align="center">Computer Engineering Student @Faculty of Engineering Cairo University. Full stack developer @NichePharma.</h3>
 
-- 🔭 I’m currently working on [Tacit-App](https://github.com/AhmedKhaled590/XGame)
+- 🔭 I’m currently working on [Tacit-App](https://www.nichepharma.com/)
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/ahmedayman1420?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ahmedayman1420?tab=repositories)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-824107216)
 
